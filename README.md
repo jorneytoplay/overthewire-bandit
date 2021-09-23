@@ -24,4 +24,17 @@ pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 5.bandit4@bandit:~/inhere$ cat ./-file07
 koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 
-6.
+6.bandit5@bandit:~$ find -size 1033c
+./inhere/maybehere07/.file2
+DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+
+7.bandit6@bandit:/$ find -user bandit7 -group bandit6 -size 33c
+bandit6@bandit:/$ cd ./var/lib/dpkg/info/
+bandit6@bandit:/var/lib/dpkg/info$ cat bandit7.password
+HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+
+8.bandit7@bandit:~$ grep millionth data.txt
+millionth	cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+
+9.bandit8@bandit:~$ sort data.txt | uniq -u
+UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
