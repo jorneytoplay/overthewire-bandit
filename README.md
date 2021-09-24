@@ -85,6 +85,18 @@ Answers to bandit questions:
 <br>UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR</br>
   </details>
 
+<details>  
+  <summary>
+    Level 10 → Level 11
+  </summary>
+  strings data.txt | grep -E "=="
+========== the*2i"4
+========== password
+Z)========== is
+&========== truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+  <br>truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk</br>
+  </details>
+
 
 
 
