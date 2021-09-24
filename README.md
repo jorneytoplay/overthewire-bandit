@@ -98,6 +98,13 @@ Z)========== is
   </details>
   
   
+<details>  
+  <summary>
+    Level 10 → Level 11
+  </summary>
+  bandit10@bandit:~$ base64 --decode data.txt
+  <br>The password is IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR</br>
+  </details>
 
 
 
