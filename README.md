@@ -106,7 +106,13 @@ Z)========== is
   <br>The password is IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR</br>
   </details>
 
-
+<details>  
+  <summary>
+    Level 11 → Level 12
+  </summary>
+  bandit11@bandit:~$  cat data.txt |tr'[a-z]''[n-za-m]'|tr'[A-Z]''[N-ZA-M]'
+  <br>The password is 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu</br>
+  </details>
 
 
 
