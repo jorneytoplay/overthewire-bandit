@@ -133,6 +133,16 @@ Z)========== is
   <br>cat pass3</br>
   <br>The password is 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL</br>
   </details>
+  
+  <details>  
+  <summary>
+    Level 13 → Level 14
+  </summary>
+  <br>cat sshkey.private</br>
+  <br>ssh bandit14@localhost -i sshkey.private</br>
+  <br>cd /etc/bandit_pass</br>
+  <br>cat bandit14</br>
+  </details>
 
 
 
