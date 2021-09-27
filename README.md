@@ -113,6 +113,26 @@ Z)========== is
   bandit11@bandit:~$  cat data.txt |tr'[a-z]''[n-za-m]'|tr'[A-Z]''[N-ZA-M]'
   <br>The password is 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu</br>
   </details>
+  
+  <details>  
+  <summary>
+    Level 12 → Level 13
+  </summary>
+  <br>mkdir /tmp/mynam</br>
+  <br>cp data.txt /tmp/mynam</br>
+  <br><xxd -r data.txt pass1</br>
+  <br>mv pass1 pass1.gz</br>
+  <br>gzip -d pass1.gz</br>
+  <br>bzip2 -d pass1</br>
+  <br>zcat pass1.out>pass2</br>
+  <br>tar -xvf pass2</br>
+  <br>tar -xvf data5.bin</br>
+  <br>bzip2 -d data6.bin</br>
+  <br>tar -xvf data6.bin.out</br>
+  <br>zcat data8.bin>pass3</br>
+  <br>cat pass3</br>
+  <br>The password is 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL</br>
+  </details>
 
 
 
