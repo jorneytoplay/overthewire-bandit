@@ -164,5 +164,14 @@ Z)========== is
   <br>Correct! cluFn7wTiGryunymYOu4RcffSxQluehd</br>
   </details>
 
+ <details>  
+  <summary>
+    Level 16 → Level 17
+  </summary>
+  <br>nmap -p 31000-32000 localhost</br>
+  <br>openssl s_client -connect localhost:31790 -quiet > pass17 </br>
+  <br>chmod 700 pass17</br>
+  <br>ssh bandit17@localhost -i pass17</br>
+  </details>
 
 
