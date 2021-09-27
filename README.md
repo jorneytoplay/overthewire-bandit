@@ -142,6 +142,7 @@ Z)========== is
   <br>ssh bandit14@localhost -i sshkey.private</br>
   <br>cd /etc/bandit_pass</br>
   <br>cat bandit14</br>
+  <br>4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e</br>
   </details>
 
 
