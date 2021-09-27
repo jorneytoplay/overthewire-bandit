@@ -146,4 +146,13 @@ Z)========== is
   </details>
 
 
+  <details>  
+  <summary>
+    Level 14 → Level 15
+  </summary>
+  <br>nc localhost 30000 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e</br>
+  <br>Correct! BfMYroe26WYalil77FoDi9qh59eK5xNr</br>
+  </details>
+
+
 
