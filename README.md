@@ -153,6 +153,16 @@ Z)========== is
   <br>nc localhost 30000 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e</br>
   <br>Correct! BfMYroe26WYalil77FoDi9qh59eK5xNr</br>
   </details>
+  
+  
+  <details>  
+  <summary>
+    Level 15 → Level 16
+  </summary>
+  <br>openssl s_client -connect localhost:30001</br>
+  <br>BfMYroe26WYalil77FoDi9qh59eK5xNr</br>
+  <br>Correct! cluFn7wTiGryunymYOu4RcffSxQluehd</br>
+  </details>
 
 
 
