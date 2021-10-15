@@ -173,5 +173,62 @@ Z)========== is
   <br>chmod 700 pass17</br>
   <br>ssh bandit17@localhost -i pass17</br>
   </details>
+  
+   <details>  
+  <summary>
+    Level 17 → Level 18
+  </summary>
+  <br>diff passwords.new passwords.old</br>
+  <br>kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd</br>>
+  </details>
+  
+   <details>  
+  <summary>
+    Level 18 → Level 19
+  </summary>
+  <br>ssh bandit18@bandit.labs.overthewire.org -p 2220</br>
+  <br>cat ~/readme</br>
+  <br>IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x</br>
+  </details>
+  
+   <details>  
+  <summary>
+    Level 19 → Level 20
+  </summary>
+  <br>ssh bandit19@bandit.labs.overthewire.org -p 2220</br>
+  <br>./bandit20-do</br>
+  <br>./bandit20-do id</br>
+  <br>./bandit20-do cat /etc/bandit_pass/bandit20</br>
+  </details>
+  
+    <details>  
+  <summary>
+    Level 20 → Level 21
+  </summary>
+  <br>echo "GbKksEFF4yrVs6il55v6gwY5aVje5f0j" | nc -l localhost -p 10000</br>
+  <br>./suconnect 10000</br>
+  <br>gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr</br>
+  </details>
+  
+    <details>  
+  <summary>
+    Level 21 → Level 22
+  </summary>
+  <br>ssh bandit19@bandit.labs.overthewire.org -p 2220</br>
+  <br>./bandit20-do</br>
+  <br>./bandit20-do id</br>
+  <br>./bandit20-do cat /etc/bandit_pass/bandit20</br>
+  </details>
+  
+    <details>  
+  <summary>
+    Level 22 → Level 23
+  </summary>
+  <br>cd /etc/cron.d</br>
+  <br>cat /etc/cron.d/cronjob_bandit22</br>
+  <br> cat /usr/bin/cronjob_bandit22.sh</br>
+  <br>cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv</br>
+  <br>Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI</br>
+  </details>
 
 
