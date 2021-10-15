@@ -174,7 +174,7 @@ Z)========== is
   <br>ssh bandit17@localhost -i pass17</br>
   </details>
   
-   <details>  
+  <details>  
   <summary>
     Level 17 → Level 18
   </summary>
@@ -182,7 +182,7 @@ Z)========== is
   <br>kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd</br>>
   </details>
   
-   <details>  
+  <details>  
   <summary>
     Level 18 → Level 19
   </summary>
@@ -191,7 +191,7 @@ Z)========== is
   <br>IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x</br>
   </details>
   
-   <details>  
+  <details>  
   <summary>
     Level 19 → Level 20
   </summary>
@@ -201,7 +201,7 @@ Z)========== is
   <br>./bandit20-do cat /etc/bandit_pass/bandit20</br>
   </details>
   
-    <details>  
+  <details>  
   <summary>
     Level 20 → Level 21
   </summary>
@@ -210,7 +210,7 @@ Z)========== is
   <br>gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr</br>
   </details>
   
-    <details>  
+  <details>  
   <summary>
     Level 21 → Level 22
   </summary>
@@ -220,7 +220,7 @@ Z)========== is
   <br>./bandit20-do cat /etc/bandit_pass/bandit20</br>
   </details>
   
-    <details>  
+  <details>  
   <summary>
     Level 22 → Level 23
   </summary>
